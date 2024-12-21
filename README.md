@@ -5,7 +5,7 @@ Georgia Institute of Technology - Graduate Introduction to Operation Systems (GI
 * University: Georgia Institute of Technology (GaTech)
 * Degree: Master of Science in Software Development
 * Class: CS6200 Graduate Introduction to Operating Systems
-* Date: Fall 2024 (09/23/2024)
+* Date: Fall 2024 (12/3/2024)
 
 ---
 ### Important to note
