@@ -15,7 +15,7 @@ Georgia Institute of Technology doesn’t allow students to publicly share proje
 ---
 ### Description
 
-Goals for project 4 were to move away from low level socket programming to higher level abstraction using Remote Procedure Calls (RPCS), and design a multithreaded distributed file system.
+Goals for project 4 were to move away from low level socket programming to higher level abstraction using Remote Procedure Calls (RPCs), and design a multithreaded distributed file system.
 
 #### Project Parts
 
